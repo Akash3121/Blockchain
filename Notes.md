@@ -70,7 +70,7 @@ The Bitcoin network adjusts the mining difficulty in a way that takes around 10 
 
 Mining - count
 
-Adding a new block by finding its nonce value is called “mining”. It requires computers to do some work of solving the puzzle and show the proof of this work (the valid nonce) to add a new block. 
+Adding a new block by finding its nonce value is called “**mining**”. It requires computers to do some work of solving the puzzle and show the proof of this work (the valid nonce) to add a new block. 
 
 This process (“proof-of-work”) is how our different computers build consensus on which blocks are valid. 
 

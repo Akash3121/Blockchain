@@ -64,3 +64,7 @@ When the puzzle for a new block is solved, that block can be added to the blockc
 
 **How difficult is it to find a nounce?**
 
+🕵️‍♀️ Reality check: Solving the puzzle is actually very difficult. We required that the hash starts with only four zeros just to make it easy for you to mine the block. But for every additional number of zeros we require, the mining difficulty goes up exponentially. 
+
+The Bitcoin network adjusts the mining difficulty in a way that takes around 10 minutes to mine a block. Mining difficulty is 40 trillion times more difficult than what it was in 2009! 😵
+

@@ -41,3 +41,14 @@ If the majority of computers working on the blockchain are honest and they’re 
 Then, they can solve the puzzles faster, build a longer chain and create an alternate truth. This is the only way to ‘hack’ a blockchain (also called a 51% attack).
 
 If the blockchain is long enough, it’s almost impossible to go back and change data in previous blocks. Because, then, the hash of the block changes, which requires changing hashes of all subsequent blocks. Solving this puzzle takes too much time — there would be no way to catch up with the newly added blocks to create the longest chain.
+
+Solving the puzzlw mining:
+
+Score! The system we designed lets one single true blockchain emerge. Now, let’s dig into the kind of puzzle typically used in blockchain.
+
+For our larger system to work as we described, this puzzle has to be something that: 
+
+- inevitably takes time and energy to solve
+- lets multiple computers collaborate
+- is easy for others to confirm when it is solved
+Here is the puzzle that blockchains typically use: “What additional series of numbers can I add to the block, so that the hash I generate for the whole block starts with X number of zeros? (let’s assume four zeros for now)?”

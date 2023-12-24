@@ -12,3 +12,4 @@ Single Chain:
 
 Distributed Chain:
 
+![image](https://github.com/Akash3121/Blockchain/assets/87650180/6a9ef06b-0ead-473a-88bc-cf3dfe85f15a)

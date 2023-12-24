@@ -53,3 +53,11 @@ For our larger system to work as we described, this puzzle has to be something t
 - is easy for others to confirm when it is solved
   
 Here is the puzzle that blockchains typically use: “What additional series of numbers can I add to the block, so that the hash I generate for the whole block starts with X number of zeros? (let’s assume four zeros for now)?”
+
+**Why does this works?**
+
+Because it is almost impossible to guess the input of a hash calculation, there is no straightforward way for a computer to calculate these additional numbers (which is called nonce - a number used only once).
+
+The only way to solve this puzzle is to try different nonce values. As a result, this inevitably takes time and energy to solve and, if more computers try to solve the same puzzle, they can guess the right nonce faster. Because a hash can be calculated instantaneously, once the nonce values are found, it is very easy for other computers to confirm that the puzzle is solved.
+
+When the puzzle for a new block is solved, that block can be added to the blockchain.

@@ -27,3 +27,5 @@ There are two fundamental, interdependent tweaks we will implement. We will make
 
 > If you ask a computers to solve a time-consuming problem, you can regulate how fast new blocks get added.
 We will make it time consuming to add new blocks by forcing computers to solve a difficult puzzle to create a new block.
+
+Multiple computer working on the same problem.

@@ -29,3 +29,4 @@ There are two fundamental, interdependent tweaks we will implement. We will make
 First, We will make it time consuming to add new blocks by forcing computers to solve a difficult puzzle to create a new block.
 
 Multiple computer working on the same problem.
+

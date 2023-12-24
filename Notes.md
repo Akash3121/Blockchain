@@ -85,3 +85,19 @@ The second requirement of creating a single truth is having many computers tryin
 For the computers to solve the puzzle and add a new block, they have to keep a copy of the entire blockchain. These computers are called ‘nodes’.  
 
 That’s where a concept called "**decentralization**" comes in: Ideally, anyone can download and hold a copy of an entire public blockchain on their computer so that if one computer goes out of service, others still have all the data.
+
+**Summary**:
+
+Blockchain is designed to enable distributed, decentralized systems to agree on the same version of data. 
+
+The data is entered into blocks and, with new material, blocks are chained together as a blockchain. The data on each block is stamped with a hash algorithm and the blocks are chained together using the hash of the previous block.
+
+This blockchain is shared by different computers, called nodes, but because it is a decentralized system, the computers may start producing conflicting versions of the blockchain.
+
+To prevent this, the system requires every node to mine the block as they are added to the blockchain. A node needs to guess a nonce number for a block that produces a hash number.
+
+Because it is a guessing game, the more nodes that try to guess the same version of the block, the faster they are mined. The system also forces nodes to build on top of the longest chain, which further enforces alignment on the longest chain. As a result, the longest chain becomes the reliable and agreed version of data.
+
+Even though it is possible to hijack the blockchain and inject an alternative version of the data, as the chain gets longer and as more nodes join the network, it becomes increasingly difficult to do so.
+
+This way, a decentralized system can collectively build an agreed-upon version of the data and facilitate relationships or information flows between different players without a centralized authority.

@@ -16,7 +16,7 @@ Distributed Chain:
 
 Which chain represents the truth? (Is it single chain or distributed chain)
 
-1)
+1) If you enable truthful blocks to be added more quickly, you can make more truthful blockchains.
 ![image](https://github.com/Akash3121/Blockchain/assets/87650180/2ab9af38-803d-4ed9-be57-04c5ca52a579)
 
 Then the longest chain will be the most truthful chain.

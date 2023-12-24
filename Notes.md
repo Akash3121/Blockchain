@@ -61,3 +61,6 @@ Because it is almost impossible to guess the input of a hash calculation, there 
 The only way to solve this puzzle is to try different nonce values. As a result, this inevitably takes time and energy to solve and, if more computers try to solve the same puzzle, they can guess the right nonce faster. Because a hash can be calculated instantaneously, once the nonce values are found, it is very easy for other computers to confirm that the puzzle is solved.
 
 When the puzzle for a new block is solved, that block can be added to the blockchain.
+
+**How difficult is it to find a nounce?**
+

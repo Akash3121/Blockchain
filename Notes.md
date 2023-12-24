@@ -51,4 +51,5 @@ For our larger system to work as we described, this puzzle has to be something t
 - inevitably takes time and energy to solve
 - lets multiple computers collaborate
 - is easy for others to confirm when it is solved
+  
 Here is the puzzle that blockchains typically use: “What additional series of numbers can I add to the block, so that the hash I generate for the whole block starts with X number of zeros? (let’s assume four zeros for now)?”

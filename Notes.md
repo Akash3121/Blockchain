@@ -9,3 +9,6 @@ Bitcoin uses SHA (Secure Hash Algorithm)-256 hash. SHA-256 is an algorithm that 
 Single Chain:
 
 ![image](https://github.com/Akash3121/Blockchain/assets/87650180/3a4d4bd4-faf3-41eb-876c-bbc2b29b17c8)
+
+Distributed Chain:
+

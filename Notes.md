@@ -30,3 +30,7 @@ First, We will make it time consuming to add new blocks by forcing computers to 
 
 Multiple computer working on the same problem.
 
+> Second, if more computers try to solve the puzzle simultaneously and the first one solving the puzzle shares the solution with others, it can be solved more quickly simply because more computers are putting effort into it. So, the version of blocks that more computers work on gets added faster.
+
+
+

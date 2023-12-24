@@ -33,3 +33,9 @@ Multiple computer working on the same problem.
 > Second, if more computers try to solve the puzzle simultaneously and the first one solving the puzzle shares the solution with others, it can be solved more quickly simply because more computers are putting effort into it. So, the version of blocks that more computers work on gets added faster.
 
 As a result, whatever the majority of the computers in the network agree on is added faster and the longest chain contains these blocks.
+
+If the majority of computers working on the blockchain are honest and they’re not organized together to change the data, a bad actor won’t be able to manipulate the data. They’ll have no way to catch up with the speed of the longest blockchain and their blockchain will not be valid.
+
+What happens if the majority of computers (at least 51%) are coordinated with each other and they know exactly which data to manipulate? 
+
+Then, they can solve the puzzles faster, build a longer chain and create an alternate truth. This is the only way to ‘hack’ a blockchain (also called a 51% attack).

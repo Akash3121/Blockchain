@@ -25,5 +25,5 @@ Then the longest chain will be the most truthful chain.
 
 There are two fundamental, interdependent tweaks we will implement. We will make it faster to add blocks that are truthful and we will then assume the longest chain is the most truthful chain for the network to use .
 
-> If yoy ask a computers to solve a time-consuming problem, you can regulate how fast new blocks get added.
+> If you ask a computers to solve a time-consuming problem, you can regulate how fast new blocks get added.
 

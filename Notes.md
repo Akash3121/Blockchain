@@ -68,3 +68,14 @@ When the puzzle for a new block is solved, that block can be added to the blockc
 
 The Bitcoin network adjusts the mining difficulty in a way that takes around 10 minutes to mine a block. Mining difficulty is 40 trillion times more difficult than what it was in 2009! 😵
 
+Mining - count
+
+Adding a new block by finding its nonce value is called “mining”. It requires computers to do some work of solving the puzzle and show the proof of this work (the valid nonce) to add a new block. 
+
+This process (“proof-of-work”) is how our different computers build consensus on which blocks are valid. 
+
+💡 Tip: The number of zeros required by the puzzle determines its difficulty. More zeros mean a more difficult puzzle that takes more time. 
+
+As your computer is scanning nonce values one by one, you’re coming up with many different hash values. A stronger computer can make guesses and test these faster than a slower computer can. The number of hash values you come up with every second is called the "hash rate". 
+
+Of course, a computer spends energy when trying to solve the puzzle. Forcing computers to spend energy is an inherent design feature of how our blockchain (and Bitcoin blockchain) builds consensus between different computers.

@@ -22,3 +22,6 @@ Which chain represents the truth? (Is it single chain or distributed chain)
 Then the longest chain will be the most truthful chain.
 
 2) If new blocks only gets added to the longest blockchain, this further supports the longest and the most truthful blockchain.
+
+There are two fundamental, interdependent tweaks we will implement. We will make it faster to add blocks that are truthful and we will then assume the longest chain is the most truthful chain for the network to use .
+

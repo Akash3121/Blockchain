@@ -79,3 +79,9 @@ This process (“proof-of-work”) is how our different computers build consensu
 As your computer is scanning nonce values one by one, you’re coming up with many different hash values. A stronger computer can make guesses and test these faster than a slower computer can. The number of hash values you come up with every second is called the "hash rate". 
 
 Of course, a computer spends energy when trying to solve the puzzle. Forcing computers to spend energy is an inherent design feature of how our blockchain (and Bitcoin blockchain) builds consensus between different computers.
+
+The second requirement of creating a single truth is having many computers trying to solve the puzzle simultaneously. 
+
+For the computers to solve the puzzle and add a new block, they have to keep a copy of the entire blockchain. These computers are called ‘nodes’.  
+
+That’s where a concept called "**decentralization**" comes in: Ideally, anyone can download and hold a copy of an entire public blockchain on their computer so that if one computer goes out of service, others still have all the data.

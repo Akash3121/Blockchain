@@ -1,1 +1,1 @@
-Web3-usecase-analysis: Decentralized-car-rentals
+**Web3-usecase-analysis**: **Decentralized Car Rentals**

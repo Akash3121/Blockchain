@@ -18,7 +18,8 @@ Using blockchain and smart contracts, the system automates rental agreements, pa
 **Enhanced Security and Privacy**: User data is decentralized and secure.
 
 **Global Accessibility and Inclusivity**: Operates across borders without central intermediaries.
-Reduced Costs and Fees: Eliminates middlemen, lowering fees.
+
+**Reduced Costs and Fees**: Eliminates middlemen, lowering fees.
 
 **Impact:**
 This decentralized approach significantly lowers rental costs by removing intermediary fees, making car rentals more accessible and affordable. Blockchain technology ensures transparency and reliability, reducing fraud. Privacy is enhanced as personal data is not centralized. However, challenges include maintaining up-to-date vehicle information and ensuring the reliability of decentralized records.

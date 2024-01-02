@@ -14,7 +14,8 @@ Using blockchain and smart contracts, the system automates rental agreements, pa
 **Improved Trust and Transparency**: All transactions are recorded on the blockchain.
 
 **Automated Processes**: Smart contracts manage payments, deposits, and penalties.
-Enhanced Security and Privacy: User data is decentralized and secure.
+
+**Enhanced Security and Privacy**: User data is decentralized and secure.
 Global Accessibility and Inclusivity: Operates across borders without central intermediaries.
 Reduced Costs and Fees: Eliminates middlemen, lowering fees.
 

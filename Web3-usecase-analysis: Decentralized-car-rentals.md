@@ -3,6 +3,9 @@
 **Introduction:**
 The proposed Web3 use case envisions transforming the car rental industry by implementing a decentralized car rental system. This system leverages blockchain technology, enabling direct interactions between car owners and renters, eliminating traditional intermediaries. The main motivation is to enhance transparency, reduce costs, and ensure privacy and security in car rentals.
 
+**Motivation**:
+As a regular user of rental cars in the U.S., the exorbitant fees and lack of transparency imposed by intermediaries like Avis and Enterprise are a significant concern. These issues highlight the need for a more equitable and efficient rental process. The motivation for this Web3 use case is rooted in personal experience with these inefficiencies and the desire to leverage blockchain technology to democratize car rentals, making them more accessible, affordable, and secure for all users.
+
 **Opportunity:**
 Current centralized car rental systems, like Avis and Enterprise in the United States, often involve high fees, lack of transparency, and privacy concerns. These platforms act as intermediaries, leading to increased costs and potential data security vulnerabilities.
 
